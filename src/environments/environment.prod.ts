@@ -5,5 +5,5 @@
 
 export const environment = {
   production: true,
-  serverUrl: 'https://ercoargante.herokuapp.com/api/v1'
+  serverUrl: 'https://nodemongoerco.herokuapp.com/api/v1'
 };
